@@ -1,0 +1,14 @@
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\bin\Debug\net8.0\truth-table-generator.exe
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\bin\Debug\net8.0\truth-table-generator.deps.json
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\bin\Debug\net8.0\truth-table-generator.runtimeconfig.json
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\bin\Debug\net8.0\truth-table-generator.dll
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\bin\Debug\net8.0\truth-table-generator.pdb
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.dll
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\refint\truth-table-generator.dll
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.pdb
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\truth-table-generator.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator\truth-table-generator\obj\Debug\net8.0\ref\truth-table-generator.dll

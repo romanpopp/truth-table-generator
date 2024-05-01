@@ -1,0 +1,5 @@
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator.exe
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator.dll
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator.deps.json
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator.runtimeconfig.json
+C:\Users\roman\OneDrive\Documents\_personalProjects\truth-table-generator.pdb

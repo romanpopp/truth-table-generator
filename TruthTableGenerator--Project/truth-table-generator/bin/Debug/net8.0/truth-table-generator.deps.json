@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "truth-table-generator/1.0.0": {
+        "runtime": {
+          "truth-table-generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "truth-table-generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
